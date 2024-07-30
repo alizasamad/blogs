@@ -115,7 +115,7 @@ Unlike Coursera which is more hands-on, Great Learning Courses consist of a seri
 GitHub is a great platform for you to publish your completed projects. You can use GitHub to enhance your portfolio, build a website, and even write blogs. In the past months, I have used Github to do all three!
 
 > Take a look at this video by Shaw Talebi that demonstrates [How to Make a Data Science Portfolio with GitHub Pages (2024)](https://www.youtube.com/watch?v=D9CLhQdLp8w&list=WL&index=4).
-> For more examples, take a look at my [portfolio](https://alizasamad.github.io/). 
+> For more examples, feel free to visit my [portfolio website](https://alizasamad.github.io/). 
 
 GitHub is also the perfect place for you to display your personal projects. You can include a description of each project in the README file so that other GitHub users know what features you used and how your program functions. 
 
